@@ -6,3 +6,6 @@ def another_func():
 
 def third_func():
 	print("examplepackage.examplemodule.third_func called")
+
+def forth_func():
+	print("examplepackage.examplemodule.forth_func called")

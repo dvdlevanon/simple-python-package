@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='simple-python-package',
-    version='0.0.3',
+    version='0.0.4',
     packages=['examplepackage'],
     install_requires=[
         'requests',
