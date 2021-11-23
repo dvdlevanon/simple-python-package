@@ -9,3 +9,6 @@ def third_func():
 
 def forth_func():
 	print("examplepackage.examplemodule.forth_func called")
+
+def fifth_func():
+	print("examplepackage.examplemodule.fifth_func called")
